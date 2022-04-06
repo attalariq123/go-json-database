@@ -1,0 +1,12 @@
+{
+	"Name": "Pauji",
+	"Age": 51,
+	"Contact": "0812",
+	"Company": "Tokopedia",
+	"Address": {
+		"City": "Solo",
+		"State": "Jawa Tengah",
+		"Country": "Indonesia",
+		"Pincode": 5511
+	}
+}

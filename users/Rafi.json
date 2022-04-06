@@ -1,0 +1,12 @@
+{
+	"Name": "Rafi",
+	"Age": 22,
+	"Contact": "0812",
+	"Company": "Dicoding",
+	"Address": {
+		"City": "Bandung",
+		"State": "Jawa Barat",
+		"Country": "Indonesia",
+		"Pincode": 7733
+	}
+}

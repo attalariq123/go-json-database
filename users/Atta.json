@@ -1,0 +1,12 @@
+{
+	"Name": "Atta",
+	"Age": 24,
+	"Contact": "0812",
+	"Company": "Gojek",
+	"Address": {
+		"City": "Jambi",
+		"State": "Jambi",
+		"Country": "Indonesia",
+		"Pincode": 3322
+	}
+}

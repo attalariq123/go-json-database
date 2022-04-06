@@ -1,0 +1,12 @@
+{
+	"Name": "Pido",
+	"Age": 25,
+	"Contact": "0812",
+	"Company": "Smartfren",
+	"Address": {
+		"City": "Purwakarta",
+		"State": "Jawa Barat",
+		"Country": "Indonesia",
+		"Pincode": 4411
+	}
+}

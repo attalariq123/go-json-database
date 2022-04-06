@@ -1,0 +1,12 @@
+{
+	"Name": "Fadil",
+	"Age": 33,
+	"Contact": "0812",
+	"Company": "Astra",
+	"Address": {
+		"City": "Bekasi",
+		"State": "Jawa Barat",
+		"Country": "Indonesia",
+		"Pincode": 6622
+	}
+}
